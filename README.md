@@ -15,6 +15,5 @@ This repository provides Python scripts and Jupyter notebooks for data extractio
 
 # 🎖️ Certificates
 <p align="middle">
-  <a href="https://coursera.org/share/18ee3010324d1f165b4670f6e4cc29a7">
-    <img src="https://github.com/Avanigaikwad/Data-Extraction-and-Visualization-using-Python/blob/main/Python%20project%20for%20data%20science.pdf" height="430"></a>
+    <img src="https://github.com/Avanigaikwad/Data-Extraction-and-Visualization-using-Python/blob/main/Python%20project%20for%20data%20science.pdf" height="430">
 </p>
