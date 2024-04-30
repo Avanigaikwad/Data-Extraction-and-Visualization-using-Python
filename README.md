@@ -14,5 +14,6 @@ This repository provides Python scripts and Jupyter notebooks for data extractio
 - Data Visualization by matplotlib library
 
 # 🎖️ Certificates
-<a href="https://coursera.org/share/18ee3010324d1f165b4670f6e4cc29a7"> </a>
+![certificate](https://github.com/Avanigaikwad/Data-Extraction-and-Visualization-using-Python/assets/125494847/97397e6d-8bb5-459f-af57-d08e49b60f39)
+
 
