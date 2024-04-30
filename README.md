@@ -16,5 +16,5 @@ This repository provides Python scripts and Jupyter notebooks for data extractio
 # 🎖️ Certificates
 <p align="middle">
   <a href="https://coursera.org/share/18ee3010324d1f165b4670f6e4cc29a7">
-    <img src="https://coursera.org/share/2bfd8a29b03995ccdf84e34613c0cb9f" height="430"></a>
+    <img src="" height="430"></a>
 </p>
