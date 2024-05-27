@@ -58,9 +58,7 @@ In this project, we utilized various Python libraries to perform web scraping, d
 
 **Conclusion:**
 
-The project demonstrated the practical use of Python for data extraction and visualization. Successfully extracted stock and revenue data from multiple sources using web scraping and the **'yfinance'** library. Additionally, visualized this data using **'plotly'**, providing clear insights into the historical performance of the selected stocks.
-
-This project highlights the power of Python in automating data extraction and creating dynamic visualizations, which are essential skills for data analysis and data science professionals.
+The project effectively demonstrated the use of Python for automating data extraction and creating dynamic visualizations. By combining web scraping techniques with financial data analysis using **'yfinance'** and interactive plotting with **'plotly'**, we provided insightful visualizations of stock performance and revenue trends for major companies. This project showcases essential skills for data analysis and data science professionals, emphasizing the practical applications of Python in real-world data analysis scenarios.
 
 # 🎖️ Certificates
 ![certificate](https://github.com/Avanigaikwad/Data-Extraction-and-Visualization-using-Python/assets/125494847/97397e6d-8bb5-459f-af57-d08e49b60f39)
